@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  background-color:  #5300ac;
+}
+h2 {
+  position: relative;
+  font-size: 3em;
+  font-family: monospace, sans-serif;
+}
+button {
+  position: relative;
+  background-color: darkBlue;
+  color: white;
+  font-style: normal;
+  margin: 30px 15px 45px 15px;
+  font-size: 24px;
+  font-family: serif;
+  border: 3px solid black;
+  border-radius: 50px 30px;
+  height: 178px;
+  width: 163px;
+}
+
+#result {
+  font-size: 35px;
+}
+
+#result2 {
+  font-size: 28px;
+}
