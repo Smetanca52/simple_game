@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-image: url(/home/vancho52/Downloads/old_paper_background-wallpaper-1366x768.jpg);
+  background-image: url("old_paper_background-wallpaper-1366x768.jpg");
 }
 h2 {
   font-size: 3em;
