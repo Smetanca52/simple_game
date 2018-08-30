@@ -1,12 +1,12 @@
 body {
   text-align: center;
-  background-color:  #5300ac;
+  background-image: url(/home/vancho52/Downloads/old_paper_background-wallpaper-1366x768.jpg);
 }
 h2 {
-  position: relative;
   font-size: 3em;
-  font-family: monospace, sans-serif;
+  font-family: "Nimbus Mono L", sans-serif;
 }
+
 button {
   position: relative;
   background-color: darkBlue;
@@ -21,10 +21,22 @@ button {
   width: 163px;
 }
 
-#result {
-  font-size: 35px;
+button:hover {
+    color: black;
 }
 
-#result2 {
-  font-size: 28px;
+button:active {
+  background-color: inherit;
+  transform: translateY(6px);
+}
+
+
+#roundResult {
+  font-size: 35px;
+  font-family: "Ani" sans-serif ;
+  padding: 3rem;
+}
+
+#reset {
+  background-color: #63550c;
 }
